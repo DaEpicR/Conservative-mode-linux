@@ -18,3 +18,4 @@ Options:
 -f  Turn battery conservation off.
 -s  See battery conservation status.
 ```
+Thanks to https://github.com/cszach
